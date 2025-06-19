@@ -1,0 +1,2 @@
+# shopifyGitThemeBase
+shopifyGitThemeBase
